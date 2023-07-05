@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    background-color: rgb(210, 210, 211) ;
+    align-items: center;
+}
+.qr{
+    width: 295px;
+    border: solid;
+    border-radius: 10px;
+    border-color: ghostwhite;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+
+}
+h1{
+    font-size: 24px;
+    font-family: roboto;
+    text-align: center;
+    
+}
+.img{
+    margin: 2.8%;
+    border-radius:6px ;
+}
+p{
+font-size: 15px;
+font-family: roboto;
+text-align: center;
+color: rgb(66, 66, 65);
+padding: 10px;
+}
